@@ -1,0 +1,7 @@
+CREATE DATABASE Test_db;
+
+USE Test_db;
+
+SHOW TABLES;
+
+SELECT * FROM Students;
